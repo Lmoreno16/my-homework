@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1 - Git Practice
 
 My submission for Computer Science Discrete Structures, Section 07, Homework 1
 
